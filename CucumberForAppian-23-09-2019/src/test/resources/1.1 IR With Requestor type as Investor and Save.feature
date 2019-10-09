@@ -1,4 +1,4 @@
-@1.8IRWithReqTypeInvestorAndSave
+@1.1IRWithReqTypeInvestorAndSave
 Feature: Initiate the request, save it and verify it in the records
 Background: Login to LH Test environment
 Given I setup with "$$$CHROME$$$" browser
